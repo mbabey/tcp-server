@@ -1,0 +1,4 @@
+server-src/cmake-build-debug
+client-src/cmake-build-debug
+.DS_store
+.idea

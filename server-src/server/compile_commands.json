@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/mud/cProjects/comp3980ass2/server-src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mud/cProjects/comp3980ass2/server-src/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -Wshadow -Wstrict-overflow=4 -Wswitch-default -Wswitch-enum -Wunused -Wunused-macros -Wdate-time -Winvalid-pch -Wmissing-declarations -Wmissing-include-dirs -Wmissing-prototypes -Wstrict-prototypes -Wundef -Wnull-dereference -Wstack-protector -Wdouble-promotion -Wvla -Walloca -Woverlength-strings -Wdisabled-optimization -Winline -Wcast-qual -Wfloat-equal -Wformat=2 -Wfree-nonheap-object -Wshift-overflow -Wwrite-strings -fsanitize=address -fsanitize=undefined -fsanitize-address-use-after-scope -fstack-protector-all -fdelete-null-pointer-checks -fno-omit-frame-pointer -o CMakeFiles/server.dir/src/main.c.o -c /Users/mud/cProjects/comp3980ass2/server-src/src/main.c",
+  "file": "/Users/mud/cProjects/comp3980ass2/server-src/src/main.c"
+},
+{
+  "directory": "/Users/mud/cProjects/comp3980ass2/server-src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mud/cProjects/comp3980ass2/server-src/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -Wshadow -Wstrict-overflow=4 -Wswitch-default -Wswitch-enum -Wunused -Wunused-macros -Wdate-time -Winvalid-pch -Wmissing-declarations -Wmissing-include-dirs -Wmissing-prototypes -Wstrict-prototypes -Wundef -Wnull-dereference -Wstack-protector -Wdouble-promotion -Wvla -Walloca -Woverlength-strings -Wdisabled-optimization -Winline -Wcast-qual -Wfloat-equal -Wformat=2 -Wfree-nonheap-object -Wshift-overflow -Wwrite-strings -fsanitize=address -fsanitize=undefined -fsanitize-address-use-after-scope -fstack-protector-all -fdelete-null-pointer-checks -fno-omit-frame-pointer -o CMakeFiles/server.dir/src/util.c.o -c /Users/mud/cProjects/comp3980ass2/server-src/src/util.c",
+  "file": "/Users/mud/cProjects/comp3980ass2/server-src/src/util.c"
+},
+{
+  "directory": "/Users/mud/cProjects/comp3980ass2/server-src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mud/cProjects/comp3980ass2/server-src/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -Wshadow -Wstrict-overflow=4 -Wswitch-default -Wswitch-enum -Wunused -Wunused-macros -Wdate-time -Winvalid-pch -Wmissing-declarations -Wmissing-include-dirs -Wmissing-prototypes -Wstrict-prototypes -Wundef -Wnull-dereference -Wstack-protector -Wdouble-promotion -Wvla -Walloca -Woverlength-strings -Wdisabled-optimization -Winline -Wcast-qual -Wfloat-equal -Wformat=2 -Wfree-nonheap-object -Wshift-overflow -Wwrite-strings -fsanitize=address -fsanitize=undefined -fsanitize-address-use-after-scope -fstack-protector-all -fdelete-null-pointer-checks -fno-omit-frame-pointer -o CMakeFiles/server.dir/src/error.c.o -c /Users/mud/cProjects/comp3980ass2/server-src/src/error.c",
+  "file": "/Users/mud/cProjects/comp3980ass2/server-src/src/error.c"
+},
+{
+  "directory": "/Users/mud/cProjects/comp3980ass2/server-src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mud/cProjects/comp3980ass2/server-src/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -Wshadow -Wstrict-overflow=4 -Wswitch-default -Wswitch-enum -Wunused -Wunused-macros -Wdate-time -Winvalid-pch -Wmissing-declarations -Wmissing-include-dirs -Wmissing-prototypes -Wstrict-prototypes -Wundef -Wnull-dereference -Wstack-protector -Wdouble-promotion -Wvla -Walloca -Woverlength-strings -Wdisabled-optimization -Winline -Wcast-qual -Wfloat-equal -Wformat=2 -Wfree-nonheap-object -Wshift-overflow -Wwrite-strings -fsanitize=address -fsanitize=undefined -fsanitize-address-use-after-scope -fstack-protector-all -fdelete-null-pointer-checks -fno-omit-frame-pointer -o CMakeFiles/server.dir/src/server.c.o -c /Users/mud/cProjects/comp3980ass2/server-src/src/server.c",
+  "file": "/Users/mud/cProjects/comp3980ass2/server-src/src/server.c"
+},
+{
+  "directory": "/Users/mud/cProjects/comp3980ass2/server-src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mud/cProjects/comp3980ass2/server-src/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -Wshadow -Wstrict-overflow=4 -Wswitch-default -Wswitch-enum -Wunused -Wunused-macros -Wdate-time -Winvalid-pch -Wmissing-declarations -Wmissing-include-dirs -Wmissing-prototypes -Wstrict-prototypes -Wundef -Wnull-dereference -Wstack-protector -Wdouble-promotion -Wvla -Walloca -Woverlength-strings -Wdisabled-optimization -Winline -Wcast-qual -Wfloat-equal -Wformat=2 -Wfree-nonheap-object -Wshift-overflow -Wwrite-strings -fsanitize=address -fsanitize=undefined -fsanitize-address-use-after-scope -fstack-protector-all -fdelete-null-pointer-checks -fno-omit-frame-pointer -o CMakeFiles/server.dir/src/comm.c.o -c /Users/mud/cProjects/comp3980ass2/server-src/src/comm.c",
+  "file": "/Users/mud/cProjects/comp3980ass2/server-src/src/comm.c"
+},
+{
+  "directory": "/Users/mud/cProjects/comp3980ass2/server-src/server",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/mud/cProjects/comp3980ass2/server-src/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wall -Wextra -Wpedantic -Wshadow -Wstrict-overflow=4 -Wswitch-default -Wswitch-enum -Wunused -Wunused-macros -Wdate-time -Winvalid-pch -Wmissing-declarations -Wmissing-include-dirs -Wmissing-prototypes -Wstrict-prototypes -Wundef -Wnull-dereference -Wstack-protector -Wdouble-promotion -Wvla -Walloca -Woverlength-strings -Wdisabled-optimization -Winline -Wcast-qual -Wfloat-equal -Wformat=2 -Wfree-nonheap-object -Wshift-overflow -Wwrite-strings -fsanitize=address -fsanitize=undefined -fsanitize-address-use-after-scope -fstack-protector-all -fdelete-null-pointer-checks -fno-omit-frame-pointer -o CMakeFiles/server.dir/src/save.c.o -c /Users/mud/cProjects/comp3980ass2/server-src/src/save.c",
+  "file": "/Users/mud/cProjects/comp3980ass2/server-src/src/save.c"
+}
+]
