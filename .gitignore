@@ -1,4 +1,6 @@
+server-src/server
 server-src/cmake-build-debug
+client-src/client
 client-src/cmake-build-debug
-.DS_store
+.DS_Store
 .idea

@@ -1,4 +1,0 @@
-/Users/mud/cProjects/comp3980ass2/client-src/client/CMakeFiles/doxygen.dir
-/Users/mud/cProjects/comp3980ass2/client-src/client/CMakeFiles/client.dir
-/Users/mud/cProjects/comp3980ass2/client-src/client/CMakeFiles/edit_cache.dir
-/Users/mud/cProjects/comp3980ass2/client-src/client/CMakeFiles/rebuild_cache.dir
